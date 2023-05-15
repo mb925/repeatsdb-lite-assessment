@@ -2,3 +2,4 @@ data/
 tables/
 .idea/
 venv/
+Pipfile*
