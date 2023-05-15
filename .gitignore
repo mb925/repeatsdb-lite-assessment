@@ -1,5 +1,4 @@
 data/
 tables/
 .idea/
-venv/
-Pipfile*
+plots/
